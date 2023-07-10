@@ -1,0 +1,24 @@
+1, target
+
+
+쇼박스 - 영화배급사
+
+
+2, why  (여백 색상 글자 사용편의상)
+
+여백 > 좌측으로 과하게 치우친 배열로 인해 우측에 생긴 
+
+
+
+
+
+3, 개선방향
+
+https://www.ottogi.co.kr/main/main.asp 오뚜기
+
+https://pocarisweat.co.kr/ 포카리
+
+http://seoju.kr/front/kr/ 서주
+
+
+
